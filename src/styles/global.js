@@ -1,8 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 
 export default createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
-  
+  @import url('https://fonts.googleapis.com/css?family=Abel|Lato:400,700&display=swap');
+
   * {
     margin: 0;
     padding: 0;
@@ -15,14 +15,18 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #eee;
+    background: #FFFFFF;
     -webkit-font-smoothing: antialiased !important;
+  }
+
+  header {
+    font-family: 'Abel';
   }
 
   body, input, button {
     color: #222;
     font-size: 14px;
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
   }
 
   button {
