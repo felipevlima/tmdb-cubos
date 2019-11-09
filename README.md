@@ -4,17 +4,17 @@
 
 ### :computer: How To Run
 
- - Primeiro instale as dependencias:
+ * Primeiro instale as dependencias:
  ```bash
  yarn
  ```
  
-### Scripts de inicialização:
-  - Inicie a aplicação em modo desenvolvimento!
+### :computer: Scripts de inicialização:
+  * Inicie a aplicação em modo desenvolvimento!
  ```bash
  yarn start
  ```
- - Abra [http://localhost:3000](http://localhost:3000) para vizualizar em seu navegador
+ * Abra [http://localhost:3000](http://localhost:3000) para vizualizar em seu navegador
  
 
 ## 🤔 Tem alguma feature e quer contribuir?
