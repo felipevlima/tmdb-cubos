@@ -59,6 +59,7 @@ export const FilmList = styled.div`
     & + a {
       padding: 10px;
       margin-top: 15px;
+      display: flex;
     }
   }
 `;
